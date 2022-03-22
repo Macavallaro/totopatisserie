@@ -1,0 +1,78 @@
+body {
+    padding: 50px 20px;
+}
+
+h1 {
+    font-size: 36px;
+    line-height: 40px;
+    margin-bottom: 40px;
+}
+
+h2 {
+    font-size: 28px;
+    line-height: 36px;
+    margin-bottom: 30px;
+}
+
+h3, h4 {
+    font-size: 20px;
+    line-height: 24px;
+    margin: 20px 0;
+}
+
+p {
+    margin: 20px 0;
+}
+
+a {
+    text-decoration: underline;
+}
+
+strong {
+    font-weight: 700;
+}
+
+em {
+    font-style: italic;
+}
+
+table {
+    border: 1px solid red;
+    width: 80%;
+    margin: 50px auto;
+}
+
+td {width: 50%;}
+
+.color-pink {
+    color: pink;    
+}
+
+.main-contet {
+    display: flex;
+}
+
+.imagen-responsive {
+    width: 100%;
+}
+
+@media (max-width: 1920px) {
+    .main-contet {
+        display: block;
+    }
+}
+
+@media (max-width: 767px) {
+    .main-contet {
+        display: block;
+    }
+    
+}
+
+@media (max-width: 413px) {
+    .main-contet {
+        display: block;
+    }
+    
+}
+
