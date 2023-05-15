@@ -1,5 +1,8 @@
 # Toto patisserie recetas!
 
+![LOGO](https://github.com/Macavallaro/totopatisserie/assets/96744738/20313484-dc80-4899-82ff-311737f4aa4b)
+
+
 Aquí veremos se verán recetas dulces y saladas.
 
 Antes de ponerse a cocinar hay que tener en cuenta una serie de consideraciones para que todo se desarrolle correctamente y no tengamos problemas de ningún tipo. Enumeramos algunas de ellas:
